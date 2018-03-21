@@ -57,3 +57,5 @@ class itemController extends Controller
     return response()->json('updated',200);
 
 }
+
+}
